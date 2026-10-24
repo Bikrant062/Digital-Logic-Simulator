@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblogic_core.a CMakeFiles/logic_core.dir/src/Gate.cpp.o CMakeFiles/logic_core.dir/src/Gates.cpp.o CMakeFiles/logic_core.dir/src/Circuit.cpp.o CMakeFiles/logic_core.dir/src/TruthTable.cpp.o CMakeFiles/logic_core.dir/src/FileManager.cpp.o
+/usr/bin/ranlib liblogic_core.a

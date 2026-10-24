@@ -1,0 +1,5 @@
+/workspaces/Digital-Logic-Simulator/build/CMakeFiles/logic_core.dir
+/workspaces/Digital-Logic-Simulator/build/CMakeFiles/test_core.dir
+/workspaces/Digital-Logic-Simulator/build/CMakeFiles/logic_sim_gui.dir
+/workspaces/Digital-Logic-Simulator/build/CMakeFiles/edit_cache.dir
+/workspaces/Digital-Logic-Simulator/build/CMakeFiles/rebuild_cache.dir
