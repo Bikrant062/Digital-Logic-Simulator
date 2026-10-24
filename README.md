@@ -1,4 +1,5 @@
 # Digital Logic Simulator (C++ / SFML)
+<img src="./digital_logic_sample_guiphoto.jfif" alt="Digital Logic Simulator screenshot" width="900">
 
 A GUI digital-logic simulator: drag gates onto a canvas, wire them together,
 flip switches, watch LEDs light up in real time, and auto-generate a truth
